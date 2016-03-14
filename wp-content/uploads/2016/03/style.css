@@ -5,18 +5,8 @@
     Author URI: http://nqstd.com;
     Version: 1.0.0
     Tags: light, custom-background, two-columns, right-sidebar, responsive-layout, custom-menu, sticky-post, theme-options, threaded-comments, translation-ready, gray, left-sidebar, custom-menu, editor-style, featured-images, full-width-template, sticky-post, theme-options, threaded-comments
-    Template: twentyfourteen
+    Template: Twenty Fourteen
     */
 
 
     @import url('../twentyfourteen/style.css');
-
-    .entry-title {
-    text-transform: initial;
-}
-    .entry-title a {
-    color: white;
-    background-color: rgba(77, 177, 55, 0.56);
-    padding: 0 5px;
-    line-height: 1.4;
-}
